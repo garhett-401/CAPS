@@ -5,10 +5,9 @@
 ### Author: Garhett Morgan  
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [submission PR](https://github.com/garhett-401/CAPS/pull/1)
+
+
 
 ### Setup
 
@@ -21,7 +20,7 @@ i.e.
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+-`node caps.js`
 
 #### How to use your library (where applicable)
 
